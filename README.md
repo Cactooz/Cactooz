@@ -6,7 +6,7 @@ I'm Hugo, a Swedish High-School student.
 - 🌱 I’m currently learning more indepth Shell programming, as well as 3D programming in C#.
 - 💾 I code in C#, JS, Python, Shell, Batch as well as HTML and CSS.
 - 🤔 I'm always open for tips and tricks :D
-- 🔒 Not all more repositories are public, many are old tasks, projects or just random testing.
+- 🔒 Many but not all more repositories are public, many are old tasks, projects or just random testing.
 
 <!--
 **hugobacher/hugobacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
