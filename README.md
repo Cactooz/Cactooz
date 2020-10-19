@@ -2,7 +2,11 @@
 
 I'm Hugo, a Swedish High-School student.
 
-I code in C#, JS, Python, Shell, Batch as well as HTML and CSS
+- 🗺️ I’m currently working on random projects on my free time, currently a lot of Shell based projects.
+- 🌱 I’m currently learning more indepth Shell programming, as well as 3D programming in C#.
+- 💾 I code in C#, JS, Python, Shell, Batch as well as HTML and CSS.
+- 🤔 I'm always open for tips and tricks :D
+
 <!--
 **hugobacher/hugobacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
