@@ -2,6 +2,8 @@
 
 I'm Hugo, a Swedish High-School student.
 
+aka Cactooz or TheCactusMonkey
+
 - 🗺️ I’m currently working on random projects on my free time, currently a lot of Shell based projects.
 - 🌱 I’m currently learning more indepth Shell programming, as well as 3D programming in C#.
 - 💾 I code in C#, JS, Python, Shell, Batch as well as HTML and CSS.
