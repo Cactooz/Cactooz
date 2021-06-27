@@ -11,4 +11,4 @@ aka Cactooz or TheCactusMonkey
 - 🔒 Many but not all more repositories are public, many are old tasks, projects or just random testing.
 
 ![Cactooz's Github Stats](https://github-readme-stats.vercel.app/api?username=Cactooz&bg_color=22272e&title_color=adbac7&text_color=adbac7&icon_color=ff6600&border_color=22272e&show_icons=true&custom_title=Code%20Stats&count_private=true)
-![Cactooz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cactooz&layout=compact&bg_color=22272e&title_color=adbac7&text_color=adbac7&border_color=22272e)
+![Cactooz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cactooz&layout=compact&bg_color=22272e&title_color=adbac7&text_color=adbac7&border_color=22272e&langs_count=6)
