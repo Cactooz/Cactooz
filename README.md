@@ -10,7 +10,9 @@ aka Cactooz or TheCactusMonkey
 - 🤔 I'm always open for tips and tricks :D
 - 🔒 Many but not all more repositories are public, many are old tasks, projects or just random testing.
 
-![Metrics](https://metrics.lecoq.io/Cactooz?template=classic&repositories=1000&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=full-year&languages.limit=5&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=600&languages.recent.days=60&config.timezone=Europe%2FStockholm)
+![Cactooz's Github Stats](https://github-readme-stats.vercel.app/api?username=Cactooz&bg_color=22272e&title_color=adbac7&text_color=adbac7&icon_color=ff6600&border_color=22272e&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cactooz&layout=compact&bg_color=22272e&title_color=adbac7&text_color=adbac7&border_color=22272e)
+
 
 <!--
 **hugobacher/hugobacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
