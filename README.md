@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Hugo, a Swedish High-School student.
+I'm Hugo, a Swedish University student in Computer Sience.
 
 aka Cactooz or TheCactusMonkey
 
