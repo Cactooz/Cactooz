@@ -4,7 +4,7 @@ I'm Hugo, a Swedish University student studying Information and Communication Te
 
 - 🗺️ I’m currently working on school projects and other random projects on my free time.
 - 🌱 I’m currently learning Java, Assembly & C.
-- 💾 I code in C#, C, C++, Java, JS, Python, Shell, Batch as well as HTML and CSS.
+- 💾 I code in C#, C, C++, Java, JS, Python, Shell, Batch, some Assembly as well as HTML and CSS.
 - 🤔 I'm always open for tips and tricks :D
 - 🔒 Many but not all of my repositories are public, many are old tasks, projects or just random testing.
 
