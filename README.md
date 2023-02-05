@@ -1,12 +1,11 @@
 <h1 align="center">Hello there 👋</h1>
 
-I'm Hugo, a Swedish University student studying Information and Communication Technology at KTH.
+I'm Hugo, a Swedish University student studying Information Technology at KTH.
 
-- 🗺️ I’m currently working on school projects and other random projects in my free time.
+- 🗺️ I’m currently working on school projects and GUI/Websites in my free time.
 - 🌱 I’m currently learning React.
-- 💾 I code in C#, C, C++, Java, JS, Python, Shell, Batch, some Assembly as well as HTML and CSS.
+- 💾 I code in C#, C, C++, Java, JS, Python, Elixir, Prolog, Shell, Batch, some Assembly as well as HTML, CSS and more!
 - 🤔 I'm always open for tips and tricks :D
-- 🔒 Many but not all of my repositories are public, many are old tasks, projects or just random testing.
 
 ---
 
