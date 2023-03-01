@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋</h1>
+<h1 align="center">Hello there <a href="https://youtu.be/dQw4w9WgXcQ"><img height="26em" src="https://raw.githubusercontent.com/Cactooz/Cactooz/main/img/hand.svg"></a></h1>
 
 I'm Hugo, a Swedish University student studying Information Technology at KTH.
 
