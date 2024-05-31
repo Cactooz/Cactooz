@@ -2,10 +2,10 @@
 
 I'm Hugo, a Swedish University student studying Information Technology at KTH.
 
-- 🗺️ I’m currently working on school projects and GUI/Websites in my free time.
-- 🌱 I’m currently learning React.
-- 💾 I code in C#, C, C++, Java, JS, Python, Elixir, Prolog, Shell, Batch, some Assembly as well as HTML, CSS and more!
-- 🤔 I'm always open for tips and tricks :D
+- 🗺️ Currently working on school projects, random programs, and websites in my free time.
+- 🌱 Learning Next.js.
+- 💾 Code in C#, Java, JS, React, and more!
+- 🤔 Always open to tips and tricks :D
 
 ---
 
