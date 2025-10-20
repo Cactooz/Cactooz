@@ -1,74 +1,55 @@
 <h1 align="center">Hello there <a href="https://youtu.be/dQw4w9WgXcQ"><img height="26em" src="https://raw.githubusercontent.com/Cactooz/Cactooz/main/img/hand.svg"></a></h1>
 
-I'm Hugo, a Master's student in Computer Science at KTH. I love design, gaming, and space. Always curious, open to tips and tricks, and building. 🚀
-
-🛠️ C#, Java, JavaScript, React, Angular, Python, PyTorch, NumPy
+I'm Hugo, a Master's student in Computer Science at KTH. I love design, gaming, and space. Always curious, open to tips and tricks, and building 🚀
+Coding in C#, Java, JavaScript/TypeScript, React, Angular, Python, PyTorch, NumPy.
 
 ## Projects
-Various projects I have developed. Click to expand 👇
-
-<details>
-<summary><h3>Personal & More</h3></summary>
-
-**Minecraft Server Status Discord Bot**:
-A Discord.js bot that allows you to ping Minecraft servers to see if they are online and how many players are online.
-
-- Repo: [MinecraftServer-DiscordBot](https://github.com/Cactooz/MinecraftServer-DiscordBot)
-
-**IT-Chapter Website**:
-Development of the chapter website using Next.js.
-
-- Repo: [heim](https://github.com/itsektionen/heim)
-- Website: [kth.it](https://www.kth.it/)
-
-**IT-Chapter Songbook**:
-Development of the chapter songbook Progressive Web App using React and TypeScript. With the corresponding list of all songs built in TypeScript.
-
-- Songbook Repo: [songbook-2.0](https://github.com/itsektionen/songbook-2.0)
-- Songlist Repo: [songlist](https://github.com/itsektionen/songlist)
-- Website: [sb.kth.it](https://www.sb.kth.it/)
-</details>
-
-<details>
-<summary><h3>Singapore University of Technology and Design</h3></summary>
-
-**Bitcoin Prediction Model**: 
-A machine learning model that predicts the future price of Bitcoin with up to 97.5% accuracy. Built using PyTorch during a deep learning course.
-
-- Repo: [BitcoinPredictor](https://github.com/Cactooz/BitcoinPredictor)
-
-**ImageWrench**: 
-A lightweight cross-platform bitmap (.bmp) image editor built in C.
-
-- Repo: [ImageWrench](https://github.com/Cactooz/ImageWrench)
-</details>
-
-<details>
-<summary><h3>KTH Royal Institute of Technology</h3></summary>
 
 **reShuffle**: 
-Development and research of music shuffling algorithms using JavaScript and Spotify API as part of our [Bachelor's thesis](http://kth.diva-portal.org/smash/record.jsf?pid=diva2:1906561).
+Development and research of music shuffling algorithms using JavaScript and Spotify API as part of our [Bachelor's thesis](http://kth.diva-portal.org/smash/record.jsf?pid=diva2:1906561) 🎶
 
 - Repo: [reShuffle](https://github.com/Cactooz/reShuffle)
 - Website: [reshuffle.one](https://reshuffle.one/)
 
 **Fault with Curiosity**: 
-An online co-op 3D puzzle game developed with a group of 8, where players need to escape a pitch black dungeon before ghosts hunt them down. Compatible with Windows, MacOS (ARM), and Linux.
+An online co-op 3D puzzle game developed with a group of 8, where players need to escape a pitch black dungeon before ghosts hunt them down. Compatible with Windows, MacOS (ARM), and Linux 🕹️
 
 - Repo: [FaultWithCuriosity](https://github.com/TeamAlphaKTH/FaultWithCuriosity)
 - Download: [Fault with Curiosity](https://github.com/TeamAlphaKTH/FaultWithCuriosity/releases/tag/v1.0)
 
+**Bitcoin Prediction Model**: 
+A machine learning model that predicts the future price of Bitcoin with up to 97.5% accuracy, built using PyTorch 📈
+
+- Repo: [BitcoinPredictor](https://github.com/Cactooz/BitcoinPredictor)
+
+**ImageWrench**: 
+A lightweight cross-platform bitmap (.bmp) image editor built in C 🖼️
+
+- Repo: [ImageWrench](https://github.com/Cactooz/ImageWrench)
+
+**IT-Chapter Songbook**:
+A progressive web app using React and TypeScript for the chapter's songbook. With the corresponding list of all songs built in TypeScript 💿
+
+- Songbook Repo: [songbook-2.0](https://github.com/itsektionen/songbook-2.0)
+- Songlist Repo: [songlist](https://github.com/itsektionen/songlist)
+- Website: [sb.kth.it](https://www.sb.kth.it/)
+
+**IT-Chapter Website**:
+A bilingual website made using Next.js for the chapter 🌐
+
+- Repo: [heim](https://github.com/itsektionen/heim)
+- Website: [kth.it](https://www.kth.it/)
+
 **Star Wars Wiki**: 
-A React.js based web app for information about Star Wars, built in a group of four for an interactive web programming course.
+An interactive React.js based web app for information about Star Wars, built in a group of four 🌌
 
 - Repo: [StarWarsWiki](https://github.com/Cactooz/StarWarsWiki)
 - Website: [starwarsloreatlas.web.app](https://starwarsloreatlas.web.app/)
 
 **Uno32 Snake**: 
-A classic Snake game built in C for a Uno32 chipKit for a computer hardware course.
+A classic Snake game built in C for a Uno32 chipKit for a computer hardware course 🐍
 
 - Repo: [Snake](https://github.com/Cactooz/Snake)
-</details>
 
 ---
 
