@@ -15,13 +15,13 @@ A Discord.js bot that allows you to ping Minecraft servers to see if they are on
 
 - Repo: [MinecraftServer-DiscordBot](https://github.com/Cactooz/MinecraftServer-DiscordBot)
 
-**Chapter Website & Songbook**:
+**IT-Chapter Website**:
 Development of the chapter website using Next.js.
 
 - Repo: [heim](https://github.com/itsektionen/heim)
 - Website: [kth.it](https://www.kth.it/)
 
-**Chapter Songbook**:
+**IT-Chapter Songbook**:
 Development of the chapter songbook Progressive Web App using React and TypeScript. With the corresponding list of all songs built in TypeScript.
 
 - Songbook Repo: [songbook-2.0](https://github.com/itsektionen/songbook-2.0)
