@@ -12,13 +12,13 @@ Development and research of music shuffling algorithms using JavaScript and Spot
 - Website: [reshuffle.one](https://reshuffle.one/)
 
 **Fault with Curiosity**: 
-An online co-op 3D puzzle game developed with a group of 8, where players need to escape a pitch black dungeon before ghosts hunt them down. Compatible with Windows, MacOS (ARM), and Linux 🕹️
+An online co-op 3D puzzle game developed in Unity with a group of 8, where players need to escape a pitch black dungeon before ghosts hunt them down. Compatible with Windows, MacOS (ARM), and Linux 🕹️
 
 - Repo: [FaultWithCuriosity](https://github.com/TeamAlphaKTH/FaultWithCuriosity)
-- Download: [Fault with Curiosity](https://github.com/TeamAlphaKTH/FaultWithCuriosity/releases/tag/v1.0)
+- Download: [Fault with Curiosity](https://github.com/TeamAlphaKTH/FaultWithCuriosity/releases/latest)
 
 **Bitcoin Prediction Model**: 
-A machine learning model that predicts the future price of Bitcoin with up to 97.5% accuracy, built using PyTorch 📈
+A machine learning model that predicts the future price of Bitcoin with 97.5% accuracy, built using PyTorch 📈
 
 - Repo: [BitcoinPredictor](https://github.com/Cactooz/BitcoinPredictor)
 
@@ -50,6 +50,7 @@ An interactive React.js based web app for information about Star Wars, built in 
 A classic Snake game built in C for a Uno32 chipKit for a computer hardware course 🐍
 
 - Repo: [Snake](https://github.com/Cactooz/Snake)
+- Download: [Snake](https://github.com/Cactooz/Snake/releases/latest)
 
 ---
 
