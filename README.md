@@ -1,6 +1,7 @@
 <h1 align="center">Hello there <a href="https://youtu.be/dQw4w9WgXcQ"><img height="26em" src="https://raw.githubusercontent.com/Cactooz/Cactooz/main/img/hand.svg"></a></h1>
 
-I'm Hugo, a Master's student in Computer Science at KTH. I love design, gaming, and space. Always curious, open to tips and tricks, and building 🚀
+I'm Hugo, a Master's student in Computer Science at KTH. I love design, gaming, and space 🚀
+
 Coding in C#, Java, JavaScript/TypeScript, React, Angular, Python, PyTorch, NumPy.
 
 ## Projects
@@ -28,7 +29,7 @@ A lightweight cross-platform bitmap (.bmp) image editor built in C 🖼️
 - Repo: [ImageWrench](https://github.com/Cactooz/ImageWrench)
 
 **IT-Chapter Songbook**:
-A progressive web app using React and TypeScript for the chapter's songbook. With the corresponding list of all songs built in TypeScript 💿
+A progressive web app using React and TypeScript for the chapter's songbook. With the corresponding songlist built with TypeScript 💿
 
 - Songbook Repo: [songbook-2.0](https://github.com/itsektionen/songbook-2.0)
 - Songlist Repo: [songlist](https://github.com/itsektionen/songlist)
