@@ -1,8 +1,8 @@
 <h1 align="center">Hello there <a href="https://youtu.be/dQw4w9WgXcQ"><img height="26em" src="https://raw.githubusercontent.com/Cactooz/Cactooz/main/img/hand.svg"></a></h1>
 
-I'm Hugo, a Master's student in Computer Science at KTH. I love design, gaming, and space 🚀
+I'm Hugo, a Swedish Master's student in Computer Science specializing in Data Science and Machine Learning at KTH, with past exchange studies at SUTD. I love design, gaming, and space 🚀
 
-Coding in C#, Java, JavaScript/TypeScript, React, Angular, Python, PyTorch, NumPy.
+Coding in C#, Java, JavaScript/TypeScript, Python, React, Angular, PyTorch.
 
 ## Projects
 
@@ -33,13 +33,13 @@ A progressive web app using React and TypeScript for the chapter's songbook. Wit
 
 - Songbook Repo: [songbook-2.0](https://github.com/itsektionen/songbook-2.0)
 - Songlist Repo: [songlist](https://github.com/itsektionen/songlist)
-- Website: [sb.kth.it](https://www.sb.kth.it/)
+- Website: [sb.kth.it](https://sb.kth.it/)
 
 **IT-Chapter Website**:
 A bilingual website made using Next.js for the chapter 🌐
 
 - Repo: [heim](https://github.com/itsektionen/heim)
-- Website: [kth.it](https://www.kth.it/)
+- Website: [kth.it](https://kth.it/)
 
 **Star Wars Wiki**: 
 An interactive React.js based web app for information about Star Wars, built in a group of four 🌌
