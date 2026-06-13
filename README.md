@@ -1,57 +1,26 @@
 <h1 align="center">Hello there <a href="https://youtu.be/dQw4w9WgXcQ"><img height="26em" src="https://raw.githubusercontent.com/Cactooz/Cactooz/main/img/hand.svg"></a></h1>
 
-I'm Hugo, a Swedish Master's student in Computer Science specializing in Data Science and Machine Learning at KTH, with past exchange studies at SUTD. I love design, gaming, and space 🚀
+I'm Hugo, a Swedish Software and Machine Learning Engineer with an MSc in Computer Science from KTH and exchange studies in AI at SUTD. I love design, gaming, and space 🚀
 
-Coding in C#, Java, JavaScript/TypeScript, Python, React, Angular, PyTorch.
+Coding in Python, PyTorch, C#, Java, JavaScript/TypeScript, React, Angular, and more!
 
-## Projects
+## Favorite Projects
 
-**reShuffle**: 
-Development and research of music shuffling algorithms using JavaScript and Spotify API as part of our [Bachelor's thesis](http://kth.diva-portal.org/smash/record.jsf?pid=diva2:1906561) 🎶
+**[ES-Instruct](https://hugobacher.se/es-instruct)** — Instruction-tuning music diffusion model, developed as part of my Master's thesis at KTH × Epidemic Sound 🎵 · [Repo](https://github.com/Cactooz/ES-Instruct)
 
-- Repo: [reShuffle](https://github.com/Cactooz/reShuffle)
-- Website: [reshuffle.one](https://reshuffle.one/)
+**[MARI Dataset](https://huggingface.co/datasets/Cactooz/MARI-dataset)** — Evaluation dataset and generation scripts for instruction-tuning of music generative AI models 🤗 · [Repo](https://github.com/Cactooz/MARI-dataset)
 
-**Fault with Curiosity**: 
-An online co-op 3D puzzle game developed in Unity with a group of 8, where players need to escape a pitch black dungeon before ghosts hunt them down. Compatible with Windows, MacOS (ARM), and Linux 🕹️
+**[reShuffle](https://reshuffle.one)** — Music shuffling algorithm research using JavaScript and the Spotify API, published as a [Bachelor's thesis](http://kth.diva-portal.org/smash/record.jsf?pid=diva2:1906561) 🎶 · [Repo](https://github.com/Cactooz/reShuffle)
 
-- Repo: [FaultWithCuriosity](https://github.com/TeamAlphaKTH/FaultWithCuriosity)
-- Download: [Fault with Curiosity](https://github.com/TeamAlphaKTH/FaultWithCuriosity/releases/latest)
+**[Fault with Curiosity](https://github.com/TeamAlphaKTH/FaultWithCuriosity)** — Online co-op 3D horror puzzle game built in Unity with a team of 8 🕹️ · [Download](https://github.com/TeamAlphaKTH/FaultWithCuriosity/releases/latest)
 
-**Bitcoin Prediction Model**: 
-A machine learning model that predicts the future price of Bitcoin with 97.5% accuracy, built using PyTorch 📈
+## Other Projects & Contributions
 
-- Repo: [BitcoinPredictor](https://github.com/Cactooz/BitcoinPredictor)
+**[Minecraft@Home](https://github.com/MinecraftAtHome)**: Contributor to collaborative reverse-engineering and seed-finding research 🔍
 
-**ImageWrench**: 
-A lightweight cross-platform bitmap (.bmp) image editor built in C 🖼️
+**[IT-Sektionen @ KTH](https://kth.it/)**: Contributed to the chapter's [songbook](https://github.com/itsektionen/songbook-2.0), [songlist](https://github.com/itsektionen/songlist), and [website](https://github.com/itsektionen/heim), among other things, as part of the student chapter 💿
 
-- Repo: [ImageWrench](https://github.com/Cactooz/ImageWrench)
-
-**IT-Chapter Songbook**:
-A progressive web app using React and TypeScript for the chapter's songbook. With the corresponding songlist built with TypeScript 💿
-
-- Songbook Repo: [songbook-2.0](https://github.com/itsektionen/songbook-2.0)
-- Songlist Repo: [songlist](https://github.com/itsektionen/songlist)
-- Website: [sb.kth.it](https://sb.kth.it/)
-
-**IT-Chapter Website**:
-A bilingual website made using Next.js for the chapter 🌐
-
-- Repo: [heim](https://github.com/itsektionen/heim)
-- Website: [kth.it](https://kth.it/)
-
-**Star Wars Wiki**: 
-An interactive React.js based web app for information about Star Wars, built in a group of four 🌌
-
-- Repo: [StarWarsWiki](https://github.com/Cactooz/StarWarsWiki)
-- Website: [starwarsloreatlas.web.app](https://starwarsloreatlas.web.app/)
-
-**Uno32 Snake**: 
-A classic Snake game built in C for a Uno32 chipKit for a computer hardware course 🐍
-
-- Repo: [Snake](https://github.com/Cactooz/Snake)
-- Download: [Snake](https://github.com/Cactooz/Snake/releases/latest)
+Also built a [Bitcoin price predictor](https://github.com/Cactooz/BitcoinPredictor) in PyTorch, a [bitmap image editor](https://github.com/Cactooz/ImageWrench) in C, a [Star Wars wiki](https://github.com/Cactooz/StarWarsWiki) in React, and a [Snake game](https://github.com/Cactooz/Snake) for the Uno32 chipKit if you're curious 😄
 
 ---
 
