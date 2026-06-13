@@ -10,7 +10,7 @@ Coding in Python, PyTorch, C#, Java, JavaScript/TypeScript, React, Angular, and 
 
 **[MARI Dataset](https://huggingface.co/datasets/Cactooz/MARI-dataset)**: Evaluation dataset and generation scripts for instruction-tuning of music generative AI models 🤗 · [Repo](https://github.com/Cactooz/MARI-dataset)
 
-**[reShuffle](https://reshuffle.one)**: Music shuffling algorithm research using JavaScript and the Spotify API, published as a [Bachelor's thesis](http://kth.diva-portal.org/smash/record.jsf?pid=diva2:1906561) 🎶 · [Repo](https://github.com/Cactooz/reShuffle)
+**[reShuffle](https://reshuffle.one)**: Music shuffling algorithm research using JavaScript and the Spotify API, as my [Bachelor's thesis](http://kth.diva-portal.org/smash/record.jsf?pid=diva2:1906561) 🎶 · [Repo](https://github.com/Cactooz/reShuffle)
 
 **[Fault with Curiosity](https://github.com/TeamAlphaKTH/FaultWithCuriosity)**: Online co-op 3D horror puzzle game built in Unity with a team of 8 🕹️ · [Download](https://github.com/TeamAlphaKTH/FaultWithCuriosity/releases/latest)
 
