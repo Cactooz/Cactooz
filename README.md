@@ -18,7 +18,7 @@ Coding in Python, PyTorch, C#, Java, JavaScript/TypeScript, React, Angular, and 
 
 **[Minecraft@Home](https://github.com/MinecraftAtHome)**: Contributor to collaborative reverse-engineering and seed-finding research 🔍
 
-**[IT-Sektionen @ KTH](https://kth.it/)**: Contributed to the chapter's [songbook](https://github.com/itsektionen/songbook-2.0), [songlist](https://github.com/itsektionen/songlist), and [website](https://github.com/itsektionen/heim), among other things, as part of the student chapter 💿
+**[IT-Sektionen @ KTH](https://kth.it/)**: Contributed to the chapter's [songbook](https://github.com/itsektionen/songbook-2.0), [songlist](https://github.com/itsektionen/songlist), and [website](https://github.com/itsektionen/heim), among other things 💿
 
 Also built a [Bitcoin price predictor](https://github.com/Cactooz/BitcoinPredictor) in PyTorch, a [bitmap image editor](https://github.com/Cactooz/ImageWrench) in C, a [Star Wars wiki](https://github.com/Cactooz/StarWarsWiki) in React, and a [Snake game](https://github.com/Cactooz/Snake) for the Uno32 chipKit if you're curious 😄
 
